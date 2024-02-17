@@ -6,7 +6,7 @@ Currently a student at Annamacharya Institute of Technology and Sciences, Rajamp
 
 I am a back end developer who loves both java as well as python
 
-* 🌍  I'm based in Tirupati
+* 🌍  I'm based in Andhra Pradesh
 * ✉️  You can contact me at [gunasekhar.sangaraju@gmail.com](mailto:gunasekhar.sangaraju@gmail.com)
 * 🧠  I'm learning Java Script
 * 🤝  I'm open to collaborating on projects
